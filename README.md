@@ -1,5 +1,5 @@
-# data-engineering-foundation-2024-
-# Welcome to the Learning Repository
+
+# Welcome to the Learning Repository - data-engineering-foundation-2024
 
 ## Table of Contents
 - [Introduction](#introduction)
