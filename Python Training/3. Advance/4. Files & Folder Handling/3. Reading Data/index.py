@@ -1,4 +1,4 @@
-# 1. We're reading the data so we can provide 'r' mode
+ # 1. We're reading the data so we can provide 'r' mode
 # 2. The file should be existed
 # 3. You can also omit the "r" mode because it's the default mode
 # users = open("users.txt", "r")

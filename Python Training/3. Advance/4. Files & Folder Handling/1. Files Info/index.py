@@ -15,3 +15,4 @@
 # With Statement
 with open("users.txt") as users:
     print(users)
+    print(users.read())
