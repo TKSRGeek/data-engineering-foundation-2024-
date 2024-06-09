@@ -51,6 +51,14 @@ stripped_sentence = sentence.strip()
 print(uppercase_sentence, lowercase_sentence, stripped_sentence)
 ```
 
+# Strip Function
+
+```py
+text = "xxHello, World!xx"
+stripped_text = text.strip('x')
+print(f"'{stripped_text}'")
+```
+
 # String Formatting
 
 ```py

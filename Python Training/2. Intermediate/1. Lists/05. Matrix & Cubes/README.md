@@ -45,3 +45,5 @@ cube = [
     ]
 ]
 ```
+
+#### np_matrix = np.array(matrix) , np_matrix.shape

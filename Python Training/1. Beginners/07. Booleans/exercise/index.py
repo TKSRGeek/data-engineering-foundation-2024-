@@ -1,0 +1,2 @@
+isPythonDifficult = False
+print(isPythonDifficult)

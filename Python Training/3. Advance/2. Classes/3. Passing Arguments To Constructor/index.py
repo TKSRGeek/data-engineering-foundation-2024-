@@ -1,3 +1,7 @@
+'''
+Passing arguments to a constructor in Python allows you to initialize the object's attributes with
+specific values when the object is created.
+The arguments are passed to the __init__ method of the class'''
 class Person:
     def __init__(self, name, age, location):
         self.name = name
