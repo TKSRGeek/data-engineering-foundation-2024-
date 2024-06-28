@@ -13,6 +13,8 @@ class Person:
 
 
 huxn = Person("HuXn", 20, "London")
+
+
 huxn.user_info()
 
 jordan = Person("Jordan", 26, "USA")

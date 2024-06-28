@@ -14,6 +14,7 @@ class Car:
     def __init__(self, brand, model):
         self.brand = brand
         self.model = model
+
         # 👇 Accessing static variable
         Car.num_cars += 1
 
@@ -21,5 +22,7 @@ class Car:
 # Creating instances of Car
 car1 = Car("Toyota", "Camry")
 car2 = Car("Honda", "Accord")
+
+print()
 
 print("Number of cars created:", Car.num_cars)  # 2

@@ -24,3 +24,5 @@ class Dog(Animal):
 
 buddy = Dog("Dog", "IDK", 40, "blue", 50)
 buddy.bark()
+
+
