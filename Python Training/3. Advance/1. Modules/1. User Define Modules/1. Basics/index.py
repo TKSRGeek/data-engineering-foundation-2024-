@@ -1,7 +1,7 @@
 # ----------------
 # import my_own_math
-
-# print(my_own_math.a)
+#
+# # print(my_own_math.a)
 # print(my_own_math.add_to_numbers(10, 20))
 # print(my_own_math.subtract_to_numbers(20, 10))
 # print(my_own_math.multiply_to_numbers(20, 10))

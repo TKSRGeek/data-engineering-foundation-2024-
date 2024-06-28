@@ -12,5 +12,9 @@ class MyClass:
 
 obj = MyClass(10)
 print(obj.get_x())  # 10
+
+
 # Accessing a private attribute (not recommended, and name-mangled)
+print("-----name mangling---")
 print(obj._MyClass__x)
+print(obj.__x)

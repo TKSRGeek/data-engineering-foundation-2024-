@@ -19,5 +19,5 @@
 # ----------------------
 # Read Only Single Line
 talk = open("talk.txt")
-content = talk.readline()
+content = talk.readlines()
 print(content)
